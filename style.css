@@ -5,12 +5,15 @@ h1{
     border: 5px solid black;
     border-radius: 50px;
 }
-
 .origami{
 
     border-radius: 20px;
-    background-color: lightgray;
+    background-color: #d3d3d3;
 
     width: 310px;
     font-family: fantasy;    
+}
+.origami ul{
+   color: #000000;
+
 }
